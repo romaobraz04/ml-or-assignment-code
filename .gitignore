@@ -1,0 +1,17 @@
+﻿# The report has its own Git repository connected to Overleaf.
+/6aad5eee42e0cccfd1864263/
+/backup/
+/tmp/
+/MLOR_assignment_2026.pdf
+
+# Generated results and local Python/Jupyter files.
+/outputs/
+/src/dbscan_k_distance.png
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
